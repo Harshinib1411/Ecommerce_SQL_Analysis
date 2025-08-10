@@ -1,0 +1,11 @@
+customer_id,name,email,join_date,country
+3,"Vivek Patel",vivek.patel3@example.com,2024-07-12,India
+49,"Rhea Khan",rhea.khan49@example.com,2024-06-27,India
+45,"Rhea Singh",rhea.singh45@example.com,2024-06-03,India
+50,"Nitin Gupta",nitin.gupta50@example.com,2024-05-15,India
+15,"Karan Khan",karan.khan15@example.com,2024-01-23,India
+42,"Isha Reddy",isha.reddy42@example.com,2023-12-15,India
+11,"Ananya Reddy",ananya.reddy11@example.com,2023-12-11,India
+18,"Sameer Kumar",sameer.kumar18@example.com,2023-10-24,India
+17,"Ananya Nair",ananya.nair17@example.com,2023-03-13,India
+4,"Kavya Mehta",kavya.mehta4@example.com,2023-02-02,India
